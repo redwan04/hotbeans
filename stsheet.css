@@ -1,0 +1,60 @@
+body{background-color:darkblue;}
+.nav-link {
+    color:blue !important;
+    }
+    
+   
+        .navbar{
+        background-color: #fff;
+        border-bottom: 3px solid lightgray;
+    
+        }
+        .brand-name {
+        font-family: 'Josefin Slab', serif;
+        font-size: 47px;
+        font-weight: bold;
+        color: #444;
+        text-decoration: none;
+        }
+        
+        .navbar{
+        padding-top: 2px;
+        padding-left: 5px;
+        padding-right: 1397px;
+        }
+        
+        .navbar-custom {
+        font-size: 20px;
+        background-color: #FFF;
+        
+        }
+        .top-container{
+            position:absolute;
+            right: 5px;
+            top: 20px;
+            
+            
+
+        }
+
+
+        .ppl{
+            font-family: 'Koulen', cursive;
+            color: white;
+
+            
+
+        }
+
+        .card-title{
+            font-family: 'Koulen', cursive;
+
+        }
+        .card-text{
+            font-family: 'Radio Canada', sans-serif;
+        }
+
+
+
+
+        
